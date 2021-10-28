@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="kumadeco"
+version="${file.jarVersion}"
+displayName="Kuma's Deco"
+logoFile="logo.png"
+credits=""
+authors="Tapio"
+description='''
+'''
+[[dependencies.kumadeco]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
